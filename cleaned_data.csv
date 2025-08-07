@@ -1,0 +1,7 @@
+Name,Join Date,Salary,Department
+Alice,2021-05-20,1000,Sales
+Bob,,1200,Sales
+Charlie,,0,Hr
+,,1300,Hr
+Eve,,0,Finance
+Alice,,1100,Finance

@@ -1,0 +1,7 @@
+Name,Join Date,Salary,Department
+ alice ,2021/05/20,1000,Sales
+BOB,20-06-2021,"1,200",sales
+Charlie,"July 5, 2021",,HR
+,2021.07.15,1300.00,HR
+Eve,not available,N/A,Finance
+alice,2021-08-01,1100,finance
